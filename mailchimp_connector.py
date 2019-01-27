@@ -3,7 +3,7 @@ Create a config.ini with:
 [default]
 mc_api = <api_key>
 list_id = <list id>
-list_id = <campaign id>
+campaign_id = <campaign id>
 
 mailchimp3: https://github.com/charlesthk/python-mailchimp
 MailChimp API reference: https://developer.mailchimp.com/documentation/mailchimp/reference/overview/
