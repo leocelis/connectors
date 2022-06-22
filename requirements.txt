@@ -6,7 +6,7 @@ idna==2.9
 mailchimp==2.0.9
 mailchimp3==3.0.14
 mixpanel==4.5.0
-numpy==1.19.0
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==1.0.5
 Pillow==7.1.2
